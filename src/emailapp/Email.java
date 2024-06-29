@@ -50,7 +50,7 @@ public class Email {
 
     public String ShowInfo() {
       infos = "Full name: " + firstName + " " + lastName + "\n" +
-        "Email: " + email + "\n" +
+        "Email:" + email + "\n" +
         "Password: " + password;
 
         return infos;
